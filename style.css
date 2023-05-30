@@ -146,8 +146,11 @@ border: solid black;
 width: 350px;
   }
   .image{
-    margin-top: 5%;
-    
+    margin-top: 5%; 
+  }
+  button{
+    background-color: yellow;
+    padding: 10px;
   }
 
 
