@@ -54,10 +54,7 @@ span{
     margin-top: 10%;
     margin-left: 15%;
 }
-/* .cat{
-    display: flex;
-    margin-top: 20%;
-} */
+
 #img1{
     margin-top: 5%;
     margin-left: 15%;
@@ -91,6 +88,7 @@ span{
 .images2{
     display: flex;
     margin-left: 15%;
+    margin-top: 5%;
 }
 
 
@@ -139,8 +137,18 @@ span{
     display:flex;
     flex-wrap: wrap;
   justify-content: space-evenly;
-  }
+  background-color: rgb(214, 209, 209);
+  margin-top: 5%;
 
+  }
+  #products img{
+border: solid black;
+width: 350px;
+  }
+  .image{
+    margin-top: 5%;
+    
+  }
 
 
 
