@@ -144,6 +144,7 @@ span{
   #products img{
 border: solid black;
 width: 350px;
+border-radius: 25px;
   }
   .image{
     margin-top: 5%; 
