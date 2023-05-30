@@ -135,7 +135,11 @@ span{
     text-decoration: none;
 }
 /* end */
-
+#products{
+    display:flex;
+    flex-wrap: wrap;
+  justify-content: space-evenly;
+  }
 
 
 
